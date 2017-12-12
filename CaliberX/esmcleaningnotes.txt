@@ -1,0 +1,6 @@
+esm cleaning:
+New ITMs, as they don't appear to have changed at all against 1.4 esm and related
+Removing: NVDLC02RecipeBreakdown45Auto "Breakdown .45 Auto" [RCPE:01010CD9]
+Removing: Recipe4570GovtHandLoad ".45-70 Gov't, SWC Hand Load" [RCPE:00140AB0]
+Removing: Recipe44MagnumHandLoad ".44 Magnum, SWC Hand Load" [RCPE:0013E44D]
+Also, as noted in previous commits, scripts 166D45 to 166D4B [Case308/357Mag/50MG/5mmAddScript]

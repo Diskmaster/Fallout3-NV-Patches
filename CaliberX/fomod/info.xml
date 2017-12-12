@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<fomod>
+  <Name>CaliberX</Name>
+  <Author>earache42, fluidfire, odin_ml, WhiskeyRiver2, et al.</Author>
+  <Version MachineVersion="4.018">4.018</Version>
+  <Description>CaliberX
+
+Common ammunition resource
+</Description>
+  <Website>http://www.moddb.com/mods/caliberx/</Website>
+  <Groups>
+    <element>items</element>
+    <element>items/misc</element>
+    <element>modresource</element>
+    <element>replacers</element>
+    <element>replacers/meshes</element>
+    <element>replacers/textures</element>
+  </Groups>
+</fomod>

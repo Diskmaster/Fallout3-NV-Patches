@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+  <moduleName>CaliberX</moduleName>
+  <moduleDependencies>
+    <gameDependency version="1.4.0.525" />
+  </moduleDependencies>
+  <requiredInstallFiles>
+    <file source="CaliberX.bsa" />
+    <folder source="textures" />
+    <folder source="meshes" />
+  </requiredInstallFiles>
+</config>
